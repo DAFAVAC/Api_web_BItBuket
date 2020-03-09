@@ -1,0 +1,24 @@
+﻿<Window x:Class="Api_Bituket.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Api_Bituket"
+        mc:Ignorable="d"
+        Title="BitBuket Git Repository" Height="254.8" Width="532.8">
+    <Grid Margin="0,10,3.8,-1.2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="143,342,0,0" VerticalAlignment="Top" Width="103" Height="41"/>
+        <TextBox HorizontalAlignment="Left" Height="31" Margin="155,25,0,0" TextWrapping="Wrap" Text="User Name" VerticalAlignment="Top" Width="308"/>
+        <TextBox HorizontalAlignment="Left" Height="32" Margin="155,72,0,0" TextWrapping="Wrap" Text="******" VerticalAlignment="Top" Width="308"/>
+        <Label Content="User Name" HorizontalAlignment="Left" Height="31" Margin="34,25,0,0" VerticalAlignment="Top" Width="74"/>
+        <Label Content="Password" HorizontalAlignment="Left" Height="32" Margin="34,72,0,0" VerticalAlignment="Top" Width="74"/>
+        <Button Content="Web" HorizontalAlignment="Left" Height="28" Margin="62,149,0,0" VerticalAlignment="Top" Width="108" Click="goWeb"/>
+        <Button Content="Acces" HorizontalAlignment="Left" Height="28" Margin="367,149,0,0" VerticalAlignment="Top" Width="96"/>
+    </Grid>
+</Window>

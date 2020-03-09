@@ -1,0 +1,18 @@
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\bin\Debug\Api Bituket.exe.config
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\bin\Debug\Api Bituket.exe
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\bin\Debug\Api Bituket.pdb
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\Api Bituket.csprojAssemblyReference.cache
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\MainWindow.g.cs
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\App.g.cs
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\Api Bituket_MarkupCompile.cache
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\Api Bituket_MarkupCompile.lref
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\MainWindow.baml
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\Api Bituket.g.resources
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\Api_Bituket.Properties.Resources.resources
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\Api Bituket.csproj.GenerateResource.cache
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\Api Bituket.exe
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\Api Bituket.pdb
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\pageInterface\Error.g.cs
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\pageInterface\Repository.g.cs
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\pageInterface\Error.baml
+C:\Users\HSB Cad Intern\source\repos\apiTest\Api Bituket\obj\Debug\pageInterface\Repository.baml
